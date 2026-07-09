@@ -51,8 +51,7 @@ void setup() {
     while (1); 
   }
 
-  Serial.println("Ambient light and color test started"); 
-  Serial.println("r,g,b, clear"); 
+  Serial.println("Setup Complete");
 } 
 
 
